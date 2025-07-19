@@ -16,6 +16,11 @@ public class Maven1_Test {
 	public void CreateProductTest() {
 		System.out.println("Created Product ");
 	}
+
+	@Test
+	public void CreateContactTest() {
+		System.out.println("Created Contact ");
+	}
 	
 	
 	
